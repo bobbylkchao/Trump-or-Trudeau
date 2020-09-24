@@ -7,7 +7,7 @@
 var Show_Interval;//Define for Interval
 var CountDown_Interval;//Define for Interval
 var Player_Nickname;//User nickname
-var Game_Time_Max_Count=10;//Maximum Game Count
+var Game_Time_Max_Count=60;//Maximum Game Count
 var Scoreboard_Trump_Shows=0;//How many times Mr.Trump shows
 var Scoreboard_Trudeau_Shows=0;//How many times Mr.Trudeau shows
 var Scoreboard_Trump=0;//How many times has Mr.Trump been clicked
