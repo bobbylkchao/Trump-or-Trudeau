@@ -1,0 +1,16 @@
+/**
+#   Bobby Chao - v1.0                 #
+#   University of Winnipeg - PACE     #
+#   https://www.bobbylkchao.com/      #
+#   Released under MIT license        #
+**/
+html,body{
+    cursor: url('_res/bat.png'),auto;
+}
+#gamestart_div{text-align: center;font-size:100px;font-weight: bold;color:green;}
+#scoreboard_div{margin-top:20px;}
+.gameover_div{text-align:center;margin-top:5%;}
+.scoreboard_title{font-weight: bold;font-size:20px;text-align: center;}
+.scoreboard_green{color:green;text-align: center;}
+.scoreboard_red{color:red;text-align: center;}
+.scoreboard_finial{font-weight: bold;font-size:20px;text-align: center;}
